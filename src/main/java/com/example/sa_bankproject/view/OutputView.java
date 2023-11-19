@@ -8,5 +8,6 @@ public class OutputView {
     }
     public void goodbyeMessage(){
         System.out.println(OutputMessage.GOODBYE.getMessage());
+        
     }
 }
